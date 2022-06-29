@@ -9,9 +9,8 @@ cask "iina-danmaku" do
   homepage "https://iina.io/"
 
   auto_updates true
-  depends_on macos: ">= :el_capitan"
-
   conflicts_with cask: "iina"
+  depends_on macos: ">= :el_capitan"
 
   app "IINA.app"
   binary "#{appdir}/IINA.app/Contents/MacOS/iina-cli", target: "iina"
