@@ -1,8 +1,8 @@
 cask "iina-danmaku" do
   version "1.3.0"
-  sha256 "98f9fecc567b103d0e0e60d704e704599f2b669082026ff883c1115288161a53"
+  sha256 "c690422e76e1748ade9ee975fed0877314091aa03ffeb40e4e70efa6beec060f"
 
-  url "https://github.com/xjbeta/iina-danmaku/releases/download/v#{version}-Danmaku(18)/IINA.#{version}-Danmaku.dmg",
+  url "https://github.com/xjbeta/iina-danmaku/releases/download/v#{version}-Danmaku(19)/IINA.#{version}-Danmaku.dmg",
       verified: "github.com/xjbeta/iina-danmaku/"
   name "IINA Danmaku"
   desc "Free and open-source media player"
