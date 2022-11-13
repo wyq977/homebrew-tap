@@ -4,7 +4,7 @@ cask "sanesidebuttons" do
 
   url "https://github.com/thealpa/SaneSideButtons/releases/download/#{version}/SaneSideButtons.dmg"
   name "SaneSideButtons"
-  desc "Maps M4/M5 mouse buttons on macOS"
+  desc "Maps M4/M5 mouse buttons"
   homepage "https://github.com/thealpa/SaneSideButtons"
 
   auto_updates true
