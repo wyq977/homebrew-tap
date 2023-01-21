@@ -1,4 +1,4 @@
-# Wyq977 Tap
+# homebrew-tap
 
 ## How do I install these formulae?
 
